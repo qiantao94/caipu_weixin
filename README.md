@@ -1,4 +1,5 @@
-﻿# 微信小程序--健康菜谱
+#### [Android版点这里](https://github.com/bestTao/caipu_android)
+# 微信小程序--健康菜谱
 基于微信小程序的一个查找检索菜谱的应用
 ### 功能
 * 分类检索菜谱
